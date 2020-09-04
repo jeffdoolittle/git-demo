@@ -1,6 +1,9 @@
-# Git Commit Standard
+---
+license: See https://github.com//jeffdoolittle/git-with-it/blob/main/LICENSE for copyright and usage information.
+copyright: Copyright © 2020 Jeff Doolittle. All Rights Reserved.
+---
 
-See [License](https://github.com//jeffdoolittle/git-with-it/blob/main/LICENSE) for copyright and usage information.
+# Git Commit Standard
 
 Following this Git Commit Standard provides many benefits:
 
@@ -86,5 +89,3 @@ Fix the nasty bug.
 
 That nasty bug as described in #1001 has finally been smashed! Woo hoo!
 ```
-
-&copy; 2020 Jeff Doolittle. All Rights Reserved.
