@@ -1,0 +1,25 @@
+
+[user]
+	email = james.howlett@example.com
+	name = James Howlett
+
+[core]
+	editor = code --wait
+
+[merge]
+    tool = code
+
+[mergetool "code"]
+    cmd = code --wait $MERGED
+
+[diff]
+    tool = code
+
+[difftool "code"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
