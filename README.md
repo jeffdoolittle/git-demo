@@ -8,6 +8,11 @@ See [License](https://github.com//jeffdoolittle/git-with-it/blob/main/LICENSE) f
 
 * [Git Configuration Templates](config/config.md)
 
+## Git Aliases
+
+* [Aliases for `bash/zsh/etc.`](aliases/sh.aliases.md)
+* [Aliases for `PowerShell`](aliases/psh.aliases.md)
+
 ## Git Standards
 
 * [Git Commit Standard](standards/git-commit.md)
