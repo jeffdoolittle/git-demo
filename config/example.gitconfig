@@ -5,6 +5,7 @@
 
 [core]
 	editor = code --wait
+	autocrlf = input
 
 [merge]
     tool = code
@@ -23,3 +24,6 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 	required = true
+
+[pull]
+    ff = only

@@ -2,17 +2,7 @@
 
 Supercharge your development with `git` wizardry!
 
-See [License](./LICENSE) for copyright and usage restrictions.
-
-## Recommended Tools
-
-* [VS Code](https://code.visualstudio.com/)
-
-* `git`
-  * [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - Beautiful `git` commit history graphs.
-  * [Git Aliases](https://githowto.com/aliases) - Options for configuring `git` aliases.
-  * [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - *Made with love in Portland, Oregon!*
-    * [Oh My Zsh Windows Install](https://github.com/ohmyzsh/ohmyzsh#prerequisites)
+See [License](https://github.com//jeffdoolittle/git-with-it/blob/main/LICENSE) for copyright and usage restrictions.
 
 ## Recommended .gitconfig Settings
 
@@ -114,3 +104,5 @@ See [License](./LICENSE) for copyright and usage restrictions.
 | [Jeff Doolittle](https://jeffdoolittle.com) | *Software Architect. Transformational Leader. I help make good software professionals great!* |
 |-|-|
 |![Jeff Doolittle](./assets/jeff_doolittle_avatar.png) | Visit [jeffdoolittle.com](https://jeffdoolittle.com) to find out more about my work. |
+
+&copy; 2020 Jeff Doolittle. All Rights Reserved.
